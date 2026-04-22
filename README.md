@@ -10,9 +10,13 @@
 
 <br/>
 
+<p align="center">
+  "⁠A tecnologia é um mecanismo de liberação de recursos. Ela pode tornar abundante o que antes era escasso."  
+</p>
+
 ---
 
-## 📬 Contato
+### 📬 Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jonas-lacerda-pereira-605162320" target="_blank">
@@ -20,6 +24,9 @@
   </a>
   <a href="https://www.instagram.com/jonlacerda_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:jonaslacerdap@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
@@ -36,7 +43,7 @@
 
 <br/>
 
-## 🛠️ Tecnologias
+### 🛠️ Tecnologias
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
