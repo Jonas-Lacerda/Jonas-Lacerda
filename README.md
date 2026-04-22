@@ -1,34 +1,52 @@
 <h1 align="center">Olá, sou o Jonas 👋!</h1>
 
-###
-
-<p align="center">Aluno de Engenharia de Sotftware • Back-End Developer</p>
-
-###
+<p align="center">
+  <em>Aluno de Engenharia de Software • Back-End Developer</em>
+</p>
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhmZ2RqemV5OTF1cDh2eHBoa3FvNDRvbWdpdzc5cDQyOHl1bTdwZCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhmZ2RqemV5OTF1cDh2eHBoa3FvNDRvbWdpdzc5cDQyOHl1bTdwZCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" />
 </div>
 
-###
+<br/>
 
-<p align="left">🧠 Sobre mim<br>🔭 Estudante de Bacharelado em Engenharia de Software na Uniamérica (3/8)<br>🧑‍🏫 Entusiasta em desenvolvimento Back-End<br>🌱 Atualmente aprendendo: Java e PostgreSQL<br>🎯 Objetivo: conquistar minha primeira oportunidade como Desenvolvedor Back-End</p>
+<p align="left">
+  🧠 <strong>Sobre mim</strong><br><br>
+  🔭 Estudante de Bacharelado em Engenharia de Software na Uniamérica (3/8)<br>
+  🧑‍💻 Entusiasta em desenvolvimento Back-End<br>
+  🌱 Atualmente aprendendo: Java e PostgreSQL<br>
+  🎯 Objetivo: conquistar minha primeira oportunidade como Desenvolvedor Back-End
+</p>
 
-###
+<br/>
+
+## 🛠️ Tecnologias
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="www.linkedin.com/in/jonas-lacerda-pereira-605162320" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Jonas-Lacerda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jonas-Lacerda&locale=pt-br&layout=compact&langs_count=5&theme=dracula"/>
+</div>
+
+<br/>
+
+## 📬 Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jonas-lacerda-pereira-605162320" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/jonlacerda_?igsh=MWV4bHhtNGs5MXZzeA%3D%3D&utm_source=qr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://www.instagram.com/jonlacerda_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jonas-Lacerda&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
