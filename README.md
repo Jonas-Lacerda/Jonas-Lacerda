@@ -10,13 +10,16 @@
 
 <br/>
 
-<p align="left">
-  🧠 <strong>Sobre mim</strong><br><br>
-  🔭 Estudante de Bacharelado em Engenharia de Software na Uniamérica (3/8)<br>
-  🧑‍💻 Entusiasta em desenvolvimento Back-End<br>
-  🌱 Atualmente aprendendo: Java e PostgreSQL<br>
-  🎯 Objetivo: conquistar minha primeira oportunidade como Desenvolvedor Back-End
-</p>
+---
+
+### 🧠 Sobre mim
+
+  - 🔭 Estudante de Bacharelado em Engenharia de Software na Uniamérica (3/8)<br>
+  - 🧑‍💻 Entusiasta em desenvolvimento Back-End<br>
+  - 🌱 Atualmente aprendendo: Java e PostgreSQL<br>
+  - 🎯 Objetivo: conquistar minha primeira oportunidade como Desenvolvedor Back-End
+
+---
 
 <br/>
 
